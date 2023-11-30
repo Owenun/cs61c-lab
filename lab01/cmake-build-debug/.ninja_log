@@ -1,0 +1,8 @@
+# ninja log v5
+1	85	7230220672574602	CMakeFiles/lab01.dir/eccentric.c.obj	18003398f52dbea7
+8	92	7230220672641602	CMakeFiles/lab01.dir/hello.c.obj	166370f019bcda1d
+21	100	7230220672721251	CMakeFiles/lab01.dir/ll_cycle.c.obj	11d3b0bf5a301943
+15	105	7230220672761253	CMakeFiles/lab01.dir/interactive_hello.c.obj	6426db7f8e6f514b
+37	109	7230220672816914	CMakeFiles/lab01.dir/segfault_ex.c.obj	5ca31a34dfc5b45c
+28	114	7230220672868079	CMakeFiles/lab01.dir/no_segfault_ex.c.obj	775887a63da6116c
+43	125	7230220672983317	CMakeFiles/lab01.dir/test_ll_cycle.c.obj	ca049417eca2bac6

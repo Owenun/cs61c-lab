@@ -1,0 +1,3 @@
+C:/Users/86178/Desktop/course/cs61c/lab/su20-lab-starter/lab01/cmake-build-debug/CMakeFiles/lab01.dir
+C:/Users/86178/Desktop/course/cs61c/lab/su20-lab-starter/lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86178/Desktop/course/cs61c/lab/su20-lab-starter/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
